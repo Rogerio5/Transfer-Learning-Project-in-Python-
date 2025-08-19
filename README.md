@@ -115,19 +115,6 @@ python script_treino.py
 
 ---
 
-## 📦 Instalação / Installation
-
----
-
-bash
-git clone https://github.com/seuusuario/classificacao_gatos_cachorros.git
-cd classificacao_gatos_cachorros
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate     # Windows
-pip install -r requirements.txt
-
- ---
  ## 👨‍💻 Pessoa Desenvolvedor do Projeto / Project Developer
 
 - [Rogerio](https://github.com/Rogerio5)
