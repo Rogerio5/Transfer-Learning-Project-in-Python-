@@ -2,7 +2,7 @@
 
 # 🐱🐶 Classificação de Gatos e Cachorros com MobileNetV2 + Grad‑CAM
 
-![Capa do Projeto](assets/grad-CAM.png.png)
+![Capa do Projeto](grad-CAM.png.png)
 
 ---
 
