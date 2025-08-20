@@ -26,7 +26,6 @@
 - [Funcionalidades / Features](#funcionalidades--features)
 - [Estrutura do Projeto / Project Structure](#estrutura-do-projeto--project-structure)
 - [Tecnologias / Technologies](#tecnologias--technologies)
-- [Instalação / Installation](#instalação--installation)
 - [Dataset / Dataset](#dataset)
 - [Execução / Run](#execução--run)
 - [Resultados e Visualizações / Results--visuals](#resultados-e-visualizações--results--visuals)
